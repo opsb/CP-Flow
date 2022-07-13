@@ -18,6 +18,5 @@ setup(
     packages=find_packages("./"),
     description="Convex Potential Flows package",
     include_package_data=True,
-    install_requires=find_requirements("requirements.txt"),
     entry_points={},
 )
